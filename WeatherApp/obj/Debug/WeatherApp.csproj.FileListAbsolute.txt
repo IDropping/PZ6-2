@@ -1,0 +1,32 @@
+C:\Users\dg743\source\repos\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\dg743\source\repos\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\dg743\source\repos\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\dg743\source\repos\WeatherApp\obj\Debug\WeatherApp.WeatherForm.resources
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\bin\Debug\WeatherApp.exe.config
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\bin\Debug\WeatherApp.exe
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\bin\Debug\WeatherApp.pdb
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.WeatherForm.resources
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.exe
+E:\01.01\МДК 01.01\ПЗ и ПР\ПРО-31\ПЗ 6\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Пользователь\Desktop\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Пользователь\Desktop\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Пользователь\Desktop\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.WeatherForm.resources
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Пользователь\Desktop\WeatherApp\obj\Debug\WeatherApp.pdb
